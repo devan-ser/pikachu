@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/devan-x-i/pikachu.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com/devan-x-i/pikachu/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
